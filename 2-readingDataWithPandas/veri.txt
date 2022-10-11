@@ -1,0 +1,5 @@
+isim,yas,maas
+Yilmaz,34,12000
+Ayse,25,10000
+Elif,40,20000
+Hakan,38,16000
